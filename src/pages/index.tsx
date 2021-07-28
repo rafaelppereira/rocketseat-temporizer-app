@@ -62,6 +62,7 @@ export default function Home({}: HomeProps) {
     <>
       <Head>
         <title>Temporizer | Home</title>
+        <link rel="shortcut icon" href="/favicon.png" type="image/png" />
       </Head>
       <section className={styles.container} >
         <div className={styles.countdownContainer} >
