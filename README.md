@@ -2,7 +2,7 @@
 
 <p align="center">The Temporizer is for you to practice the pomodoro methodology, both for work and for studying</p>
 
-<p>To start the project just run the commands below</p>
+<p align="center">To start the project just run the commands below</p>
 - yarn 
 - yarn dev
 
