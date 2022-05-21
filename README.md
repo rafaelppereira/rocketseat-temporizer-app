@@ -9,5 +9,6 @@
   yarn dev
 </p>
 
-![screenshot-rocks (3)](https://user-images.githubusercontent.com/68617133/160615649-dcb22363-2443-4d37-a060-d72492185f24.png)
+![screenshot-rocks (9)](https://user-images.githubusercontent.com/68617133/169665384-5c25d1f0-522a-4f42-94f5-cc2d68253c17.png)
+
 
